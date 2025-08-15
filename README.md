@@ -26,6 +26,11 @@ This repo contains my practical work from the **Cisco Data Science Essentials** 
 
 2. For Excel files, open normally.
 
+
+🎖️ **Badges Earned**
+
+[Data Science Essentials](https://www.credly.com/badges/10212d84-8aad-4779-a134-efb5204c4079/public_url)  
+
 ## Notes
 - All work done in VS Code + Python 3 + pandas/matplotlib.
    jupyter notebook
