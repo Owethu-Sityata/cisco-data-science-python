@@ -1,2 +1,31 @@
-# cisco-data-science-python
-Exercises from Cisco's Data Science Essentials course using Python, pandas, and matplotlib
+# My Cisco Data Science Projects
+
+This repo contains my practical work from the **Cisco Data Science Essentials** course. Each folder holds exercises for different skills.
+
+## What’s Here
+
+1. **Coding for Answers**  
+   - Python/pandas problem solutions
+
+2. **Data Visualization**  
+   - Matplotlib charts and plots
+
+3. **Data Storytelling**  
+   - Presentations explaining data insights
+
+4. **Data Modeling**  
+
+5. **Data Cleaning**  
+   - Fixing messy datasets
+
+## How to Use
+
+1. Open any `.ipynb` file in:
+   - Jupyter Notebook (install with `pip install jupyter`)
+   - VS Code with Python extension
+
+2. For Excel files, open normally.
+
+## Notes
+- All work done in VS Code + Python 3 + pandas/matplotlib.
+   jupyter notebook
