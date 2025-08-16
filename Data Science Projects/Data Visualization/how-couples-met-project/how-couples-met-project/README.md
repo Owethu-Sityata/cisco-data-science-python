@@ -31,6 +31,6 @@ Downloaded from "How Couples Meet and Stay Together 2017 (HCMST 2017)":
 https://data.stanford.edu/hcmst2017
 
 ## How to Run
-``` bash 
-jupyter notebook internet_dating_analysis.ipynb
+```bash
+https://github.com/Owethu-Sityata/cisco-data-science-python/blob/main/Data%20Science%20Projects/Data%20Visualization/how-couples-met-project/how-couples-met-project/how-couples-met-project-done.ipynb
 
