@@ -1,6 +1,6 @@
 # My Cisco Data Science Projects
 
-This repo contains my practical work from the **Cisco Data Science Essentials** course. Each folder holds exercises for different skills.
+This repo contains my practical work from the **Cisco Data Science Essentials with Python** course. Each folder holds exercises for different skills.
 
 ## What’s Here
 
